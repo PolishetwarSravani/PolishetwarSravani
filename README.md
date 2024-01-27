@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PolishetwarSravani
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning full stack web developing
+- 📫 How to reach me - polishetwarsravani@gmail.com
+- 😄 Pronouns: she/her
